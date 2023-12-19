@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "title"
+title                    : "Yian Su"
 title_separator          : "-"
-subtitle                 : "subtitle" # site tagline that appears below site title in masthead
-name                     : "name"
-description              : "description"
+subtitle                 : "Personal Website" # site tagline that appears below site title in masthead
+name                     : "Yian Su" # Used to assign a site author. Don’t worry, you can override the site author with different ones on specific posts, pages, or collection documents
+description              : "Yian Su's Personal Website" # Used predominantly in meta descriptions for improving SEO
 url                      : "https://yiansu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yiansu/yiansu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -106,28 +106,22 @@ analytics:
 author:
   name             : "Yian Su"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ""
+  bio              : "Ph.D. Candidate in Computer Science @ [Northwestern University](https://www.northwestern.edu/)"
   location         : "Evanston, IL, USA"
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
+      icon: "fas fa-envelope"
+      url: "mailto:yiansu2018@u.northwestern.edu"
+    - label: "Linkedin"
+      icon: "fab fa-linkedin"
+      url: "www.linkedin.com/in/yian-su"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url: "https://instagram.com/"
+      icon: "fab fa-github"
+      url: "https://github.com/yiansu"
+    - label: "CV"
+      icon: "fas fa-file-pdf"
+      url: "/files/cv.pdf"
 
 # Site Footer
 footer:
@@ -279,13 +273,6 @@ compress_html:
 
 # Defaults
 defaults:
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
   # _posts
   - scope:
       path: ""
