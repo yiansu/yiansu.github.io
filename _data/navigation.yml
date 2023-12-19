@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /index.html
+  - title: "Publications"
+    url: /_pages/publications.html
+  - title: "Experience"
+    url: /_pages/experience.html
+  - title: "Education"
+    url: /_pages/education.html
+  - title: "CV"
+    url: /files/cv.pdf
