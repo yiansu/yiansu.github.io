@@ -16,9 +16,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yian Su"
+title                    : "Yian Su's Personal Website"
 title_separator          : "-"
-subtitle                 : "Personal Website" # site tagline that appears below site title in masthead
+subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yian Su" # Used to assign a site author. Don’t worry, you can override the site author with different ones on specific posts, pages, or collection documents
 description              : "Yian Su's Personal Website" # Used predominantly in meta descriptions for improving SEO
 url                      : "https://yiansu.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
@@ -224,6 +224,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jemoji
 
 # mimic GitHub Pages with --safe
 whitelist:
