@@ -12,10 +12,10 @@ toc_label: "Outline"
 
 # About
 
-I am a third-year Ph.D. candidate in Computer Science, advised by [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html) at [Northwestern ARCANA Lab](https://users.cs.northwestern.edu/~simonec/Team.html).
-My primary research interest lies in advancing the field of parallelizing compilers and multi-threaded scheduling techniques.
-The goal of my research is to enable programmers to write generic parallel programs while generating portable and performant binaries for various parallel and heterogeneous systems.
-Beyond that, I also interested in program analysis and compiler optimizations.
+:wave: **Hello!** I am a third-year Ph.D. candidate in Computer Science, advised by [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html) at [Northwestern ARCANA Lab](https://users.cs.northwestern.edu/~simonec/Team.html).
+My primary research interest lies in advancing the field of parallel processing via compiler support and multi-threaded scheduling techniques.
+My research aims to enable programmers to write generic parallel programs while producing portable and performant binaries for various parallel architectures and heterogeneous systems.
+I am also interested in parallelizing compilers, code analysis, and compiler optimizations.
 
 ---
 
@@ -73,8 +73,8 @@ Software Development Engineer Intern
 
 # Affiliations
 
-[<img src="/assets/images/arcana.png" width="300" />](https://users.cs.northwestern.edu/~simonec/Team.html)
+[<img src="/assets/images/arcana.png" width="250" />](https://users.cs.northwestern.edu/~simonec/Team.html)
 
-[![Constellation](/assets/images/constellation.svg)](https://constellation-project.net/)
+[<img src="/assets/images/constellation.png" width="250" />](https://constellation-project.net/)
 
 [![Northwestern](/assets/images/northwestern.svg)](https://www.northwestern.edu/)
