@@ -16,7 +16,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yian Su's Personal Website"
+title                    : "Yian Su"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Yian Su" # Used to assign a site author. Don’t worry, you can override the site author with different ones on specific posts, pages, or collection documents
@@ -25,7 +25,7 @@ url                      : "https://yiansu.github.io" # the base hostname & prot
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "yiansu/yiansu.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/logo.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -58,7 +58,7 @@ reCaptcha:
   secret                 :
 atom_feed:
   path                   : # blank (default) uses feed.xml
-  hide                   : # true, false (default)
+  hide                   : true # true, false (default)
 search                   : # true, false (default)
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
@@ -104,24 +104,33 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yian Su"
+  name             : "苏怡安<br>Yian Su"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Ph.D. Candidate in Computer Science @ [Northwestern University](https://www.northwestern.edu/)"
-  location         : "Evanston, IL, USA"
+  bio              : ":computer: researcher, :soccer: enthusiast,<br>:violin: player, and dad of two :cat:"
+  location         : 
   email            :
   links:
+    - label: "Northwestern University"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.northwestern.edu/"
+    - label: "Evanston, IL"
+      icon: "fas fa-fw fa-map-marker-alt"
+      url: "https://maps.app.goo.gl/w15FCweTf3GmAv7s9"
     - label: "Email"
-      icon: "fas fa-envelope"
+      icon: "fas fa-fw fa-envelope"
       url: "mailto:yiansu2018@u.northwestern.edu"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=63AADzoAAAAJ&hl=en"
     - label: "Linkedin"
-      icon: "fab fa-linkedin"
-      url: "www.linkedin.com/in/yian-su"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yian-su"
     - label: "GitHub"
-      icon: "fab fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/yiansu"
     - label: "CV"
-      icon: "fas fa-file-pdf"
-      url: "/files/cv.pdf"
+      icon: "far fa-fw fa-file-pdf"
+      url: "/files/CV.pdf"
 
 # Site Footer
 footer:
