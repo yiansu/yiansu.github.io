@@ -23,7 +23,7 @@ I am also interested in parallelizing compilers, code analysis, and compiler opt
 
 * **Compiling Loop-Based Nested Parallelism for Irregular Workloads**, International Conference on Architectural Support for Programming Languages and Operating Systems, [[ASPLOS '24](https://www.asplos-conference.org/asplos2024/)]\
 _**Yian Su**, Mike Rainey, Nicholas Wanninger, Nadharm Dhiantravan, Jasper Liang, Umut Acar, Peter Dinda and Simone Campanoni_\
-[ [![pdf](/assets/icons/pdf.svg)](/files/papers/HBC_ASPLOS_2024.pdf) ] [ [![github](/assets/icons/github.svg)](https://github.com/arcana-lab/heartbeatcompiler) ]
+[ [![pdf](/assets/icons/pdf.svg)](/files/papers/HBC_ASPLOS_2024.pdf) ] [ [![github](/assets/icons/github.svg)](https://github.com/arcana-lab/heartbeatcompiler) ] [ [![youtube](/assets/icons/youtube.svg)](https://youtu.be/nJLvu4tZblg) ]
 
 * (Upcoming) **PROMPT: A Fast and Extensible Memory Profiling Framework**, International Conference on Object-oriented Programming, Systems, Languages, and Applications, [[OOPSLA '24](https://2024.splashcon.org/)]\
 _Ziyang Xu, Yebin Chon, **Yian Su**, Zujun Tan, Sotiris Apostolakis, Simone Campanoni and David I. August_
