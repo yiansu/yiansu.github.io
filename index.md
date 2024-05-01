@@ -27,7 +27,7 @@ _**Yian Su**, Mike Rainey, Nicholas Wanninger, Nadharm Dhiantravan, Jasper Liang
 
 * **PROMPT: A Fast and Extensible Memory Profiling Framework**, International Conference on Object-oriented Programming, Systems, Languages, and Applications, [[OOPSLA '24](https://2024.splashcon.org/)]\
 _Ziyang Xu, Yebin Chon, **Yian Su**, Zujun Tan, Sotiris Apostolakis, Simone Campanoni and David I. August_\
-[ [![pdf](/assets/icons/pdf.svg)](/files/papers/PROMPT_OOPSLA_2024.pdf) ]
+[ [![link](/assets/icons/link.svg)](https://dl.acm.org/doi/10.1145/3649827) ] [ [![pdf](/assets/icons/pdf.svg)](/files/papers/PROMPT_OOPSLA_2024.pdf) ]
 
 * **NOELLE Offers Empowering LLVM Extensions**, International Symposium on Code Generation and Optimization, [[CGO '22](https://conf.researchr.org/home/cgo-2022)]\
 _Angelo Matni, Enrico A. Deiana, **Yian Su**, Lukas Gross, Souradip Ghosh, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, Ishita Chaturvedi, Brian Homerding, Tommy McMichen, David I. August, and Simone Campanoni_\
