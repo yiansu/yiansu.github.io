@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "苏怡安<br>Yian Su"
   avatar           : "/assets/images/profile.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : ":computer: researcher, :soccer: enthusiast,<br>:violin: player, and dad of two :cat:"
+  bio              : ":computer: researcher, :soccer: enthusiast,<br>:violin: player, and dad of :cat:"
   location         : 
   email            :
   links:
