@@ -12,7 +12,7 @@ toc_label: "Outline"
 
 # About
 
-:wave: **Hello!** I am a third-year Ph.D. candidate in Computer Science, advised by [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html) at [Northwestern ARCANA Lab](https://users.cs.northwestern.edu/~simonec/Team.html).
+:wave: **Hello!** I am a fourth-year Ph.D. candidate in Computer Science, advised by [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html) at [Northwestern ARCANA Lab](https://users.cs.northwestern.edu/~simonec/Team.html).
 My primary research interest lies in advancing the field of parallel processing via compiler support and multi-threaded scheduling techniques.
 My research aims to enable programmers to write generic parallel programs while producing portable and performant binaries for various parallel architectures and heterogeneous systems.
 I am also interested in parallelizing compilers, code analysis, and compiler optimizations.
@@ -27,7 +27,11 @@ _**Yian Su**, Mike Rainey, Nicholas Wanninger, Nadharm Dhiantravan, Jasper Liang
 
 * **PROMPT: A Fast and Extensible Memory Profiling Framework**, International Conference on Object-oriented Programming, Systems, Languages, and Applications, [[OOPSLA '24](https://2024.splashcon.org/)]\
 _Ziyang Xu, Yebin Chon, **Yian Su**, Zujun Tan, Sotiris Apostolakis, Simone Campanoni and David I. August_\
-[ [![link](/assets/icons/link.svg)](https://dl.acm.org/doi/10.1145/3649827) ] [ [![pdf](/assets/icons/pdf.svg)](/files/papers/PROMPT_OOPSLA_2024.pdf) ]
+[ [![link](/assets/icons/link.svg)](https://dl.acm.org/doi/10.1145/3649827) ] [ [![pdf](/assets/icons/pdf.svg)](/files/papers/PROMPT_OOPSLA_2024.pdf) ] [ [![github](/assets/icons/github.svg)](http://github.com/vgene/PROMPT) ]
+
+* **Revisiting Computation for Research: Practices and Trends**, International Conference for High Performance Computing, Networking, Storage and Analysis, [[SC '24](https://sc24.supercomputing.org/)]\
+_Jeremiah Giordani, Ziyang Xu, Ella Colby, August Ning, Bhargav Reddy Godala, Ishita Chaturvedi, Zujun Tan, **Yian Su**_\
+[ [![link](/assets/icons/link.svg)](https://ieeexplore.ieee.org/abstract/document/10793131) ] [ [![pdf](/assets/icons/pdf.svg)](/files/papers/SURVEY_SC_2024.pdf) ]
 
 * **NOELLE Offers Empowering LLVM Extensions**, International Symposium on Code Generation and Optimization, [[CGO '22](https://conf.researchr.org/home/cgo-2022)]\
 _Angelo Matni, Enrico A. Deiana, **Yian Su**, Lukas Gross, Souradip Ghosh, Sotiris Apostolakis, Ziyang Xu, Zujun Tan, Ishita Chaturvedi, Brian Homerding, Tommy McMichen, David I. August, and Simone Campanoni_\
@@ -71,6 +75,9 @@ Bachelor's in Computer Science and Technology
 ---
 
 # Experience
+
+**NVIDIA Corporation**, September 2024 -- March 2025\
+HPC Compiler Intern
 
 **Amazon.com**, June 2020 -- September 2021\
 Software Development Engineer
