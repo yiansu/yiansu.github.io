@@ -13,7 +13,7 @@ toc_label: "Outline"
 # About
 
 :wave: **Hello!** I'm a fourth-year Ph.D. candidate in Computer Science at Northwestern University, working with Professor [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html) in the [ARCANA Lab](https://users.cs.northwestern.edu/~simonec/Team.html).
-I research **_compiler_** and **_runtime techniques_** for **_parallel and heterogeneous systems_**.
+I research **_compilers_** and **_runtime techniques_** for **_parallel and heterogeneous systems_**.
 My work focuses on enabling developers to write high-level, architecture-agnostic parallel programs while generating efficient and portable binaries across diverse hardware platforms.
 I build _compiler infrastructures_ and _scheduling frameworks_ that lower the barrier to performance portability, making high-performance computing more accessible to a broader range of programmers and researchers.
 My broader interests include _parallelizing compilers_, _static and dynamic program analysis_, and _compiler optimizations_ designed to scale with growing program complexity and hardware diversity.
