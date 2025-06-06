@@ -56,42 +56,53 @@ _Cong Wang, **Yian Su**, Lixin Zhou, Sancheng Peng, Ying Yuan and Hongtao Huang_
 
 # Education
 
-**Northwestern University**, September 2021 -- Present\
+* **Northwestern University**, Sep 2021 -- Present\
 Ph.D. in Computer Science\
 Adivsor: [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html)
 
-**Northwestern University**, September 2018 -- June 2020\
+* **Northwestern University**, Sep 2018 -- Jun 2020\
 Master's in Computer Science\
 Adivsor: [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html)\
 Thesis: A better Memory Understanding for Program Dependence Graph through Static Value-Flow Analysis [ [![pdf](/assets/icons/pdf.svg)](/files/papers/Master_Thesis.pdf) ]
 
-**University of Illinois at Chicago**, September 2017 -- May 2018\
+* **University of Illinois at Chicago**, Sep 2017 -- May 2018\
 Exchange Program, Electrical and Computer Engineering\
 Advisor: [Vladimir Goncharoff](https://ece.uic.edu/profiles/vladimir-goncharoff-phd/)\
 Project: Intelligent Shopping Cart [ [![github](/assets/icons/github.svg)](https://github.com/yiansu/intelligent-shopping-cart) ]
 
-**Northeastern University (China)**, September 2014 -- June 2018\
+* **Northeastern University (China)**, Sep 2014 -- Jun 2018\
 Bachelor's in Computer Science and Technology
 
 ---
 
 # Experience
 
-**NVIDIA Corporation**, September 2024 -- March 2025\
+* **NVIDIA Corporation**, Sep 2024 -- Mar 2025\
 HPC Compiler Intern
 
-**Amazon.com**, June 2020 -- September 2021\
+* **Amazon.com**, Jun 2020 -- Sep 2021\
 Software Development Engineer
 
-**Amazon.com**, June 2019 -- September 2019\
+* **Amazon.com**, Jun 2019 -- Sep 2019\
 Software Development Engineer Intern
 
 ---
 
 # Affiliations
+<div style="margin-left: 2em; margin-bottom: 1em;">
+  <a href="https://users.cs.northwestern.edu/~simonec/Team.html">
+    <img src="/assets/images/arcana.png" width="250" />
+  </a>
+</div>
 
-[<img src="/assets/images/arcana.png" width="250" />](https://users.cs.northwestern.edu/~simonec/Team.html)
+<div style="margin-left: 2em; margin-bottom: 1em;">
+  <a href="https://constellation-project.net/">
+    <img src="/assets/images/constellation.png" width="250" />
+  </a>
+</div>
 
-[<img src="/assets/images/constellation.png" width="250" />](https://constellation-project.net/)
-
-[![Northwestern](/assets/images/northwestern.svg)](https://www.northwestern.edu/)
+<div style="margin-left: 2em; margin-bottom: 1em;">
+  <a href="https://www.northwestern.edu/">
+    <img src="/assets/images/northwestern.svg" width="250" />
+  </a>
+</div>
