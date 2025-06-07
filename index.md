@@ -58,16 +58,16 @@ _Cong Wang, **Yian Su**, Lixin Zhou, Sancheng Peng, Ying Yuan and Hongtao Huang_
 
 * [![link](/assets/icons/northwestern.svg)](https://www.northwestern.edu/) **Northwestern University**, Sep 2021 -- Present\
 Ph.D. in Computer Science\
-Adivsor: [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html)
+Advisor: [_Simone Campanoni_](https://users.cs.northwestern.edu/~simonec/index.html)
 
 * [![link](/assets/icons/northwestern.svg)](https://www.northwestern.edu/) **Northwestern University**, Sep 2018 -- Jun 2020\
 Master's in Computer Science\
-Adivsor: [Simone Campanoni](https://users.cs.northwestern.edu/~simonec/index.html)\
+Thesis Committee: [_Simone Campanoni_](https://users.cs.northwestern.edu/~simonec/index.html) (Advisor), [_Peter Dinda_](https://users.cs.northwestern.edu/~pdinda/)\
 Thesis: A better Memory Understanding for Program Dependence Graph through Static Value-Flow Analysis [ [![pdf](/assets/icons/pdf.svg)](/files/papers/Master_Thesis.pdf) ]
 
 * [![link](/assets/icons/uic.svg)](https://www.uic.edu/) **University of Illinois at Chicago**, Sep 2017 -- May 2018\
 Exchange Program, Electrical and Computer Engineering\
-Advisor: [Vladimir Goncharoff](https://ece.uic.edu/profiles/vladimir-goncharoff-phd/)\
+Advisor: [_Vladimir Goncharoff_](https://ece.uic.edu/profiles/vladimir-goncharoff-phd/)\
 Project: Intelligent Shopping Cart [ [![github](/assets/icons/github.svg)](https://github.com/yiansu/intelligent-shopping-cart) ]
 
 * [![link](/assets/icons/northeastern.svg)](https://www.neu.edu.cn/) **Northeastern University**, Sep 2014 -- Jun 2018\
