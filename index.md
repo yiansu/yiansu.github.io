@@ -31,7 +31,7 @@ _Ziyang Xu, Yebin Chon, **Yian Su**, Zujun Tan, Sotiris Apostolakis, Simone Camp
 [ [![link](/assets/icons/link.svg)](https://dl.acm.org/doi/10.1145/3649827) ] [ [![pdf](/assets/icons/pdf.svg)](/files/papers/PROMPT_OOPSLA_2024.pdf) ] [ [![github](/assets/icons/github.svg)](http://github.com/vgene/PROMPT) ] [ [![archive](/assets/icons/archive.svg)](https://zenodo.org/records/10783906) ]
 
 * **Revisiting Computation for Research: Practices and Trends**, International Conference for High Performance Computing, Networking, Storage and Analysis, [[SC '24](https://sc24.supercomputing.org/)] [![link](/assets/icons/artifacts_available.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)\
-_Jeremiah Giordani, Ziyang Xu, Ella Colby, August Ning, Bhargav Reddy Godala, Ishita Chaturvedi, Zujun Tan, **Yian Su**_\
+_Jeremiah Giordani, Ziyang Xu, ..., **Yian Su**, ..., Simone Campanoni, David I. August_\
 [ [![link](/assets/icons/link.svg)](https://ieeexplore.ieee.org/abstract/document/10793131) ] [ [![pdf](/assets/icons/pdf.svg)](/files/papers/SURVEY_SC_2024.pdf) ] [ [![archive](/assets/icons/archive.svg)](https://zenodo.org/records/12587934) ]
 
 * **NOELLE Offers Empowering LLVM Extensions**, International Symposium on Code Generation and Optimization, [[CGO '22](https://conf.researchr.org/home/cgo-2022)] [![link](/assets/icons/artifacts_available.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_functional.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_reproduced.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)\
