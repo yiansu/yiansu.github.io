@@ -22,6 +22,9 @@ My broader interests include _parallelizing compilers_, _static and dynamic prog
 
 # Publications
 
+* **The Parallel-Semantics Program Dependence Graph for Parallel Optimization**, International Symposium on Code Generation and Optimization (CGO), [[CGO '26](https://2026.cgo.org/)]\
+_**Yian Su**, Brian Homerding, Haocheng Gao, Federico Sossai, Yebin Chon, David I. August and Simone Campanoni_
+
 * **Compiling Loop-Based Nested Parallelism for Irregular Workloads**, International Conference on Architectural Support for Programming Languages and Operating Systems, [[ASPLOS '24](https://www.asplos-conference.org/asplos2024/)] [![link](/assets/icons/artifacts_available.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_functional.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_reproduced.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)\
 _**Yian Su**, Mike Rainey, Nicholas Wanninger, Nadharm Dhiantravan, Jasper Liang, Umut Acar, Peter Dinda and Simone Campanoni_\
 [ [![link](/assets/icons/link.svg)](https://dl.acm.org/doi/10.1145/3620665.3640405) ] [ [![pdf](/assets/icons/pdf.svg)](/files/papers/HBC_ASPLOS_2024.pdf) ] [ [![powerpoint](/assets/icons/powerpoint.svg)](/files/presentations/HBC_ASPLOS_2024.pdf) ] [ [![youtube](/assets/icons/youtube.svg)](https://youtu.be/nJLvu4tZblg) ] [ [![github](/assets/icons/github.svg)](https://github.com/arcana-lab/heartbeatcompiler) ] [ [![archive](/assets/icons/archive.svg)](https://zenodo.org/records/10551774) ]
