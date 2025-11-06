@@ -22,7 +22,7 @@ My broader interests include _parallelizing compilers_, _static and dynamic prog
 
 # Publications
 
-* **The Parallel-Semantics Program Dependence Graph for Parallel Optimization**, International Symposium on Code Generation and Optimization (CGO), [[CGO '26](https://2026.cgo.org/)]\
+* [Accepted] **The Parallel-Semantics Program Dependence Graph for Parallel Optimization**, International Symposium on Code Generation and Optimization (CGO), [[CGO '26](https://2026.cgo.org/)]\
 _**Yian Su**, Brian Homerding, Haocheng Gao, Federico Sossai, Yebin Chon, David I. August and Simone Campanoni_
 
 * **Compiling Loop-Based Nested Parallelism for Irregular Workloads**, International Conference on Architectural Support for Programming Languages and Operating Systems, [[ASPLOS '24](https://www.asplos-conference.org/asplos2024/)] [![link](/assets/icons/artifacts_available.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_functional.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_reproduced.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)\
