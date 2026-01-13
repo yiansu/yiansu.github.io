@@ -22,9 +22,9 @@ My broader interests include _optimizing compilers_, _static and dynamic program
 
 # Publications
 
-* **The Parallel-Semantics Program Dependence Graph for Parallel Optimization**, International Symposium on Code Generation and Optimization (CGO), [[CGO '26](https://2026.cgo.org/)]\
+* **The Parallel-Semantics Program Dependence Graph for Parallel Optimization**, International Symposium on Code Generation and Optimization (CGO), [[CGO '26](https://2026.cgo.org/)] [![link](/assets/icons/artifacts_available.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_functional.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_reproduced.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)\
 _**Yian Su**, Brian Homerding, Haocheng Gao, Federico Sossai, Yebin Chon, David I. August and Simone Campanoni_\
-[ [![github](/assets/icons/github.svg)](https://github.com/yiansu/gino-pspdg) ] [ [![archive](/assets/icons/archive.svg)](https://zenodo.org/records/17633089) ]
+[ [![pdf](/assets/icons/pdf.svg)](/files/papers/PSPDG_CGO_2026.pdf) ] [ [![github](/assets/icons/github.svg)](https://github.com/yiansu/gino-pspdg) ] [ [![archive](/assets/icons/archive.svg)](https://zenodo.org/records/17633089) ]
 
 * **Compiling Loop-Based Nested Parallelism for Irregular Workloads**, International Conference on Architectural Support for Programming Languages and Operating Systems, [[ASPLOS '24](https://www.asplos-conference.org/asplos2024/)] [![link](/assets/icons/artifacts_available.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_functional.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)[![link](/assets/icons/artifacts_reproduced.svg)](https://www.acm.org/publications/policies/artifact-review-and-badging-current)\
 _**Yian Su**, Mike Rainey, Nicholas Wanninger, Nadharm Dhiantravan, Jasper Liang, Umut Acar, Peter Dinda and Simone Campanoni_\
